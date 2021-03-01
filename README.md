@@ -20,7 +20,7 @@ Software requirements :
 
 Hardware Requirements : 
 1. Raspberry pi 3: The Raspberry Pi 3 Model B is a tiny credit card size computer. Just add a keyboard, mouse, display, power supply, micro SD card with installed Linux Distribution and you'll have a fully edged computer that can run applications from word processors and spreadsheets to games.
-2. Camera module:The Raspberry Pi Camera Module v2 is a high quality 8 megapixel Sony IMX219 imagesensor custom designed add-on board for Raspberry Pi, featuring a xed focus lens. It'scapable of 3280 x 2464 pixel static images, and also supports 1080p30, 720p60 and640x480p90 video.
+2. Camera module:The Raspberry Pi Camera Module v2 is a high quality 8 megapixel Sony IMX219 imagesensor custom designed add-on board for Raspberry Pi, featuring a fixed focus lens. It'scapable of 3280 x 2464 pixel static images, and also supports 1080p30, 720p60 and640x480p90 video.
 3. Speaker: This is for hearing the voice commands.
 4. Button: When the button is pressed then the image is captured.
 
